@@ -10,15 +10,16 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=manuacostaok&label=Profile%20views&color=00b3ff&style=plastic" alt="manuacostaok" /> </p>
 <hr></hr>
 
-🚀 My last project is YoProgramo arg - shop.
+🚀 My last project is [ManuAcosta - YoProgramo #](https://github.com/manuacostaok/FrontEnd-YoProgramo).
 
-🌱 I’m currently learning MySQL, HTML, CSS, JavaScript, anda Database.
+🌱 I’m currently learning **MySQL, HTML, CSS, JavaScript, anda Database**.
 
-💡 I'm very interesting in Web development.
+💡 I'm very interesting in **Web development**.
 
-💼 I'm working on my portfolio. Meanwhile you can see all my projects of the college on GitHub.
+💼 I'm working on my portfolio. Meanwhile you can see all my projects of the college on [GitHub](https://github.com/manuacostaok?tab=repositories).
 
-📧 How to reach me manuacostaok@gmail.com
+📧 How to reach me **manuacostaok@gmail.com**
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p></p>
