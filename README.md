@@ -22,6 +22,15 @@ python u mysql java html5 css3 javascript typescript node
 Top Langs
 Manu Acosta GitHub stats
 
+
+<h3 align="center">Connect with me:</h3>
+<p></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/manuel-acosta-a1a238214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-sofia-fregona" height="30" width="40" /></a>
+<a href="https://instagram.com/acosta__manu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofifregona" height="30" width="40" /></a>
+
+</p>
+
 <!--
 **manuacostaok/manuacostaok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
