@@ -33,7 +33,7 @@
 <a href="https://nodejs.org/en/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/></a>
 </p>
   
-<div align"center">
+<div style="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuacostaok&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
