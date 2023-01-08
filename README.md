@@ -1,9 +1,9 @@
 
+<h1 align="center">Hi 👋, I'm Acosta Manu</h1>
+<h3 align="center"><i>I’m from Buenos Aires, Argentina and I'm studying  <a href="https://www.unl.edu.ar/carreras/ingenieria-industrial/">System Technique </a> at <a href="https://www.fiq.unl.edu.ar/">at UNGS (Universidad Nacional General Sarmiento).</a> <a href="https://www.unl.edu.ar/">UNL</a> . Nowadays I'm also doing course of MySQL in web. </i></h3>
 
-### Hi there 👋
-Hi 👋, I'm Acosta Manu
-I’m from Buenos Aires, Argentina and I'm studying System Technique at UNGS (Universidad Nacional General Sarmiento). 
-Nowadays I'm also doing course of MySQL in web.
+
+
 <!--Contador de visitas-->
 <p></p>
 <p></p>
@@ -37,12 +37,6 @@ Nowadays I'm also doing course of MySQL in web.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuacostaok&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sofifregona&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
 
-
-Languages and Tools:
-python u mysql java html5 css3 javascript typescript node
-
-Top Langs
-Manu Acosta GitHub stats
 
 
 <h3 align="center">Connect with me:</h3>
