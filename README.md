@@ -9,7 +9,7 @@
 <p></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manuacostaok&label=Profile%20views&color=00b3ff&style=plastic" alt="manuacostaok" /> </p>
 <hr></hr>
-<p align"center">
+
 <p align="center">
 🚀 My last project is [ManuAcosta - YoProgramo #](https://github.com/manuacostaok/FrontEnd-YoProgramo).
 
@@ -31,7 +31,8 @@
 <a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://nodejs.org/en/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/></a>
 </p>
-
+  
+<p align"center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuacostaok&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Manu Acosta GitHub stats](https://github-readme-stats.vercel.app/api?username=manuacostaok&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
