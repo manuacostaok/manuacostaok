@@ -1,7 +1,8 @@
 ### Hi there 👋
 Hi 👋, I'm Acosta Manu
-I’m from Santa Fe, Argentina and I'm studying Industrial Engineering at FIQ UNL and Information Technology University Technician at FRSF UTN. Nowadays I'm also doing the Data Science Course at Coderhouse.
-sofifregona
+I’m from Buenos Aires, Argentina and I'm studying System Technique at UNGS (Universidad Nacional General Sarmiento). 
+Nowadays I'm also doing course of MySQL in web.
+
 
 🚀 My last project is YoProgramo arg - shop.
 
@@ -17,7 +18,7 @@ Languages and Tools:
 python u mysql java html5 css3 javascript typescript node
 
 Top Langs
-
+/play secret
 Manu Acosta GitHub stats
 
 <!--
