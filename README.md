@@ -10,6 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manuacostaok&label=Profile%20views&color=00b3ff&style=plastic" alt="manuacostaok" /> </p>
 <hr></hr>
 
+<div align="center">
 
 🚀 My last project is [ManuAcosta - YoProgramo #](https://github.com/manuacostaok/FrontEnd-YoProgramo).
 
@@ -20,7 +21,7 @@
 💼 I'm working on my portfolio. <br> Meanwhile you can see all my projects of the college on [GitHub](https://github.com/manuacostaok?tab=repositories).
 
 📧 How to reach me **manuacostaok@gmail.com**
-
+</div>
 
 <h3 align="center">Languages and Tools:</h3>
 <p></p>
