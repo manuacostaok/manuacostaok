@@ -12,13 +12,13 @@
 
 <p align="center">
 🚀 My last project is [ManuAcosta - YoProgramo #](https://github.com/manuacostaok/FrontEnd-YoProgramo).
-
+<p align="center">
 🌱 I’m currently learning **MySQL, HTML, CSS, JavaScript, anda Database**.
-
+<p align="center">
 💡 I'm very interesting in **Web development**.
-
+<p align="center">
 💼 I'm working on my portfolio. Meanwhile you can see all my projects of the college on [GitHub](https://github.com/manuacostaok?tab=repositories).
-
+<p align="center">
 📧 How to reach me **manuacostaok@gmail.com**
 </p>
 
