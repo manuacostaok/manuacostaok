@@ -17,7 +17,7 @@
 <p align="center">
 💡 I'm very interesting in **Web development**.
 <p align="center">
-💼 I'm working on my portfolio. Meanwhile you can see all my projects of the college on [GitHub](https://github.com/manuacostaok?tab=repositories).
+💼 I'm working on my portfolio. <br> Meanwhile you can see all my projects of the college on [GitHub](https://github.com/manuacostaok?tab=repositories).
 <p align="center">
 📧 How to reach me **manuacostaok@gmail.com**
 </p>
