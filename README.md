@@ -9,7 +9,7 @@
 <p></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manuacostaok&label=Profile%20views&color=00b3ff&style=plastic" alt="manuacostaok" /> </p>
 <hr></hr>
-
+<p align"center">
 🚀 My last project is [ManuAcosta - YoProgramo #](https://github.com/manuacostaok/FrontEnd-YoProgramo).
 
 🌱 I’m currently learning **MySQL, HTML, CSS, JavaScript, anda Database**.
@@ -37,7 +37,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuacostaok&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sofifregona&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
-
+<p>
 
 
 <h3 align="center">Connect with me:</h3>
