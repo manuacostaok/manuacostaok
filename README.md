@@ -43,7 +43,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuacostaok&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 
-<iframe src="https://megadrive-emulator.com/game/?game=Virtual_Bart_World.bin" width="780" height="600"></iframe>
   ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=manuacostaok">
