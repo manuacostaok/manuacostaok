@@ -10,8 +10,7 @@
 <!--Contador de visitas-->
 <p></p>
 <p></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manuacostaok&label=Profile%20views&color=00b3ff&style=plastic" alt="manuacostaok" /> </p>
-<hr></hr>
+
 
 <div align="center">
 
@@ -44,7 +43,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuacostaok&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 
-
+<iframe src="https://megadrive-emulator.com/game/?game=Virtual_Bart_World.bin" width="580" height="400"></iframe>
+  ## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=manuacostaok">
+</a>
+<a href="https://github.com/jamel123a?tab=followers"><img src="https://img.shields.io/github/followers/jamel123a?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h3 align="center">Connect with me:</h3>
 <p></p>
