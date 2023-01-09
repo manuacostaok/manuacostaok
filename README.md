@@ -1,8 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
-
-<h1 align="center">Hi 👋, I'm Acosta Manu</h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center"> I'm Acosta Manu</h1>
 <h3 align="center"><i>I’m from Buenos Aires, Argentina and I'm studying  <a href="https://www.ungs.edu.ar/carrera/tecnicatura-universitaria-en-informatica">System Technique </a> at <a href="https://www.ungs.edu.ar/">at UNGS (Universidad Nacional General Sarmiento).</a> . Nowadays I'm also doing course of MySQL in web. </i></h3>
 
 
