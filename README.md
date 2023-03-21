@@ -20,7 +20,7 @@
 
 💡 I'm very interesting in **Web development**.
 
-💼 I'm working on my portfolio. <br> Meanwhile you can see all my projects of the college on [GitHub](https://github.com/manuacostaok?tab=repositories).
+💼 I'm working on my portfolio https://portfoliomanuacosta.web.app . <br> Meanwhile you can see all my projects of the college on [GitHub](https://github.com/manuacostaok?tab=repositories).
 
 📧 How to reach me **manuacostaok@gmail.com**
 </div>
