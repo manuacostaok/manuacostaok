@@ -2,8 +2,8 @@
 
 
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h1 align="center"> I'm Acosta Manu</h1>
-<h3 align="center"><i>I’m from Buenos Aires, Argentina and I'm studying  <a href="https://www.ungs.edu.ar/carrera/tecnicatura-universitaria-en-informatica">System Technique </a> at <a href="https://www.ungs.edu.ar/">at UNGS (Universidad Nacional General Sarmiento).</a> . Nowadays I'm also doing course of MySQL in web. </i></h3>
+<h1 align="center"> I'm Manu Acosta </h1>
+<h3 align="center"><i>I’m from Buenos Aires, Argentina and I'm studying  <a href="https://www.ungs.edu.ar/carrera/tecnicatura-universitaria-en-informatica">System Technique </a> at <a href="https://www.ungs.edu.ar/">at UNGS (Universidad Nacional General Sarmiento).</a> . Nowadays I'm finishing my career and looking my first job. </i></h3>
 
 
 
@@ -14,13 +14,13 @@
 
 <div align="center">
 
-🚀 My last project is [ManuAcosta - YoProgramo #](https://github.com/manuacostaok/FrontEnd-YoProgramo).
+<!--🚀 My last project is [ManuAcosta - YoProgramo #](https://github.com/manuacostaok/FrontEnd-YoProgramo).-->
 
-🌱 I’m currently learning **MySQL, HTML, CSS, JavaScript, anda Database**.
+🌱 I’m currently learning **React, Python, Next.js, and Database**.
 
 💡 I'm very interesting in **Web development**.
 
-💼 I'm working on my portfolio https://portfoliomanuacosta.web.app . <br> Meanwhile you can see all my projects of the college on [GitHub](https://github.com/manuacostaok?tab=repositories).
+💼 I'm working on my portfolio https://manuacostaportfolio.web.app . <br> Meanwhile you can see all my projects on [GitHub](https://github.com/manuacostaok?tab=repositories).
 
 📧 How to reach me **manuacostaok@gmail.com**
 </div>
@@ -53,6 +53,5 @@
 <p></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/manuel-acosta-a1a238214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-sofia-fregona" height="30" width="40" /></a>
-<a href="https://instagram.com/acosta__manu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofifregona" height="30" width="40" /></a>
 
 
