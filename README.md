@@ -1,3 +1,6 @@
+<img align="right"  src="https://komarev.com/ghpvc/?username=manuacostaok" />
+<a href="https://github.com/manuacostaok?tab=followers"><img align="left"  src="https://img.shields.io/github/followers/manuacostaok?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manuel+Acosta!;" />
@@ -68,14 +71,14 @@
   
 </div>
 
-<br/>
-<div align=center>
-  ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a align="right" href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=manuacostaok">
 </a>
-<a href="https://github.com/manuacostaok?tab=followers"><img src="https://img.shields.io/github/followers/manuacostaok?label=Followers&style=social" alt="GitHub Badge"></a>
-</div>
+
+<br/>
+
+
+
 
 
 
