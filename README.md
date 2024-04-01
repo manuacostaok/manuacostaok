@@ -1,9 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manuel+Acosta!;" />
+</h1>
 
-
-<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h1 align="center"> I'm Manu Acosta </h1>
-<h3 align="center"><i>I’m from Buenos Aires, Argentina and I'm studying  <a href="https://www.ungs.edu.ar/carrera/tecnicatura-universitaria-en-informatica">System Technique </a> at <a href="https://www.ungs.edu.ar/">at UNGS (Universidad Nacional General Sarmiento).</a> . Nowadays I'm finishing my career and looking my first job. </i></h3>
+<!--<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
+<!--<h1 align="center"> I'm Manu Acosta </h1>-->
+<h3 align="center"><i>I’m from Buenos Aires, Argentina and I'm studying  <a href="https://www.ungs.edu.ar/carrera/tecnicatura-universitaria-en-informatica">System Technique </a> at <a href="https://www.ungs.edu.ar/">at UNGS (Universidad Nacional General Sarmiento).</a> . Nowadays I'm finishing my career and looking my first sistems job. </i></h3>
 
 
 
@@ -20,38 +22,60 @@
 
 💡 I'm very interesting in **Web development**.
 
-💼 I'm working on my portfolio https://manuacostaportfolio.web.app . <br> Meanwhile you can see all my projects on [GitHub](https://github.com/manuacostaok?tab=repositories).
+💼 I'm looking for a job . <br> Meanwhile you can see all my projects on [GitHub](https://github.com/manuacostaok?tab=repositories).
 
-📧 How to reach me **manuacostaok@gmail.com**
+📧 How to reach me ****
+</div>
+<div align="center"> 
+  <a href="mailto:manuacostaok@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/manuel-acosta-a1a238214/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="[https://salesp07.github.io](https://manuacostaportfolio.web.app)" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,github,eclipse,django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,java,nextjs,mysql,postgresql,angular,ruby" /><br>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p></p>
-<p align="center"> 
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/</a>
-<a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://nodejs.org/en/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/></a>
-</p>
+<br/>
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
+  <br/><br/><br/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuacostaok&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<hr/>
 
-[![Manu Acosta GitHub stats](https://github-readme-stats.vercel.app/api?username=manuacostaok&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuacostaok&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=manuacostaok&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=manuacostaok&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manuacostaok&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   
+</div>
 
+<br/>
+<div align=center>
   ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=manuacostaok">
 </a>
 <a href="https://github.com/manuacostaok?tab=followers"><img src="https://img.shields.io/github/followers/manuacostaok?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
 
-<h3 align="center">Connect with me:</h3>
-<p></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/manuel-acosta-a1a238214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-sofia-fregona" height="30" width="40" /></a>
 
 
