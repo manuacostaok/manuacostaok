@@ -1,6 +1,5 @@
-<!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>-->
-<a href="#"><img width="100%" height="auto" src="[https://i.imgur.com/iXuL1HG.png](https://lottie.host/embed/743f662c-4e12-4ee6-ab72-52088d4aa8f5/HfJpHu3ZoO.json
-)" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h1 align="center"> I'm Manu Acosta </h1>
