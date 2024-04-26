@@ -23,7 +23,7 @@
 
 <!--🚀 My last project is [ManuAcosta - YoProgramo #](https://github.com/manuacostaok/FrontEnd-YoProgramo).-->
 
-🌱 I’m currently learning **React, Python, Next.js, and Database**.
+🌱 I’m currently learning **React, Python, Next.js**.
 
 💡 I'm very interesting in **Web development**.
 
@@ -35,10 +35,10 @@
   <a href="mailto:manuacostaok@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/manuel-acosta-a1a238214/)" target="_blank">
+  <a href="https://www.linkedin.com/in/manuel-acosta-a1a238214" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="[https://salesp07.github.io](https://manuacostaportfolio.web.app)" target="_blank">
+  <a href="https://manuacostaportfolio.web.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -47,8 +47,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,github,eclipse,django" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,java,nextjs,mysql,postgresql,angular,ruby" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,eclipse,django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,java,nextjs,mysql,postgresql,angular,ruby" /><br>
 </div>
 
 <br/>
