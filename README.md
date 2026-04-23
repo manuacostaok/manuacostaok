@@ -9,105 +9,100 @@
 </h1>
 
 <h3 align="center">
-  Software Developer from Buenos Aires 🇦🇷 <br/>
-  Currently studying Computer Science at UNGS
+Full Stack Developer from Buenos Aires 🇦🇷 <br/>
+Building scalable Web, Mobile & AI systems
 </h3>
 
-<br/>
+---
 
-<div align="center">
-
-🚀 <b>Featured Projects</b>
-
-</div>
+## 🚀 Featured Projects
 
 ---
 
-### 🧠 Task Manager (Full Stack)
+### 🧠 Task Manager (Full Stack MERN)
 🔗 https://github.com/manuacostaok/task-manager-frontend  
 
-- Full Stack App with authentication (JWT)
-- CRUD operations for task management
-- Protected routes & user sessions
-- REST API with Node.js + Express
-- MongoDB database
+- Full Stack app with authentication (JWT)
+- CRUD system for task management
+- REST API built with Node.js + Express
+- MongoDB database integration
+- Protected routes + user sessions
 
 ---
 
-### 🤖 Face Recognition App (Android)
+### 🔐 Logger Face Recognition System (Android + AI)
+🔗 https://github.com/manuacostaok/LogerFaceRecognition  
 
-🔗 https://github.com/manuacostaok/LogerFaceRecognition
+- Android app built in **Kotlin**
+- Real-time face recognition system
+- Computer vision with **OpenCV**
+- AI inference using **TensorFlow Lite**
+- Camera integration (CameraX)
+- API communication with backend services
 
-- Mobile application for real-time face recognition
-- Built with **Kotlin + Android SDK**
-- Image processing using **OpenCV**
-- Machine learning inference with **TensorFlow Lite**
-- Camera integration via **CameraX**
-- HTTP communication using **Retrofit & OkHttp**
-
-#### 🔍 Features
-- Real-time facial detection and recognition
-- No permanent storage of biometric data (privacy-focused)
-- Option to test with AI-generated faces
-- Clean architecture for scalability and improvements
-
-#### 🔐 Privacy
-- Facial images are **not stored or shared**
-- Used strictly for **academic and demonstration purposes**
-- Users can opt out or use synthetic images
+#### ⚙️ Key features
+- Real-time biometric detection
+- Image processing pipeline
+- AI-based identity matching
+- Scalable architecture for production systems
 
 ---
+
+### 🤖 AI Customer Support Chatbot
+🔗 https://github.com/manuacostaok/chatbot  
+
+- NLP chatbot for automated support systems
+- Intent detection using ML models (Scikit-learn)
+- Natural language processing with NLTK
+- Backend built with Django
+- Continuous improvement via feedback loop
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
-
-🌱 <b>Currently learning</b>  
-Kotlin · React · Node.js · Python  
-
-<br/><br/>
-
-💼 <b>Open to work</b>  
-Looking for opportunities as a <b>Full Stack Developer</b>
-
-<br/><br/>
-
-📂 <b>Portfolio</b>  
-<a href="https://manuacostaportfolio.web.app">View my work</a>
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,python,java,kotlin,html,css,bootstrap,git,github,django,opencv,tensorflow" />
 </div>
 
-<br/>
+---
 
+## 🌱 Currently Learning
+Kotlin · React · Node.js · Python · AI Systems
+
+---
+
+## 💼 Open to Work
+Looking for opportunities as a **Full Stack Developer / AI Developer**
+
+---
+
+## 📂 Portfolio
+👉 https://manuacostaportfolio.web.app
+
+---
+
+## 📫 Contact
 <div align="center"> 
   <a href="mailto:manuacostaok@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/manuel-acosta-a1a238214" target="_blank">
+  <a href="https://www.linkedin.com/in/acostamanueldev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,python,java,kotlin,html,css,bootstrap,git,github,firebase,django" />
-</div>
-
-<br/>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
+## ⚡ GitHub Stats
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=manuacostaok&theme=react" />
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=manuacostaok&show_icons=true&theme=react" />
 </div>
 
-<br/>
+---
 
-<hr/>
-
+## 🐍 Contributions
 <div align="center">
-  <h2>🐍 Contributions 🐍</h2>
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
