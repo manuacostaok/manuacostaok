@@ -78,7 +78,7 @@ Looking for opportunities as a **Full Stack Developer / AI Developer**
 ---
 
 ## 📂 Portfolio
-👉 https://manuacostaportfolio.web.app
+👉 [https://manuacostaportfolio.web.app](https://manuacostaportfolio.vercel.app/)
 
 ---
 
