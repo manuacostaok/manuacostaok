@@ -62,7 +62,7 @@ Building scalable Web, Mobile & AI systems
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,python,java,kotlin,html,css,bootstrap,git,github,django,opencv,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,python,java,kotlin,html,css,bootstrap,git,django,opencv,tensorflow" />
 </div>
 
 ---
